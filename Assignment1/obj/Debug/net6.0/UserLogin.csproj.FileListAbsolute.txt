@@ -1,0 +1,12 @@
+D:\Phase4\Day1\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+D:\Phase4\Day1\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll
+D:\Phase4\Day1\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.dll
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+D:\Phase4\Day1\UserLogin\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
